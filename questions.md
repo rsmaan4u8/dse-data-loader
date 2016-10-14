@@ -318,8 +318,7 @@ Solr query link which return '"ATL",2155'
         "OAK",259,
         "CLE",255,
         "RDU",255,
-        "SMF",```
-254,
+        "SMF",254,
         "SNA",249,
         "AUS",246,
         "SJC",229,
