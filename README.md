@@ -1,6 +1,10 @@
  README
 ========
 
+## Used
+- "cassandra-driver-core" for connecting to cassandra
+- "cassandra-driver-mapping" for object mapping e.g. For each row in CSV Flight object is created and saved to database.
+
 ## Requisites
 - Java (version 1.8.0_40)
 - Maven (3.3.1) 
